@@ -2,8 +2,8 @@
 <svg
    version="1.1"
    width="24"
-   height="38"
-   viewBox="0 0 24 38"
+   height="39"
+   viewBox="0 0 24 39"
    id="svg19"
    sodipodi:docname="blockball.svg"
    xml:space="preserve"
@@ -119,10 +119,10 @@
        hide_clip="false"
        message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." /><inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 26 : 1"
+       inkscape:vp_x="0 : 27 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="24 : 26 : 1"
-       inkscape:persp3d-origin="12 : 22 : 1"
+       inkscape:vp_z="24 : 27 : 1"
+       inkscape:persp3d-origin="12 : 23 : 1"
        id="perspective461" /><mask
        maskUnits="userSpaceOnUse"
        id="mask605"><rect
@@ -602,7 +602,7 @@
        y="7.7402344"
        style="fill:#800080;fill-opacity:1">Team 2</tspan></text><g
      id="g49966"
-     transform="matrix(3.7795276,0,0,3.7795276,0.84759308,26.885753)"><path
+     transform="matrix(4.7463293,0,0,4.7463293,-1.1297446,26.584642)"><path
        style="fill:#aaaaaa;fill-opacity:0.501961;stroke:none;stroke-opacity:1"
        d="M 1.5946506,1.3255242 2.1796279,0.52557311 2.0504368,0.42635436 1.7114394,0.32610207 1.3652073,0.34677265 1.0458469,0.48423197 0.92285703,0.60308777 Z"
        id="path78729" /><path
